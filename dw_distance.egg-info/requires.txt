@@ -1,0 +1,7 @@
+ase
+numpy
+scipy
+networkx
+dscribe
+pot
+matplotlib

@@ -4,7 +4,7 @@ setup(
     name='dw_distance',
     version='0.1.0',
     author='Johnathan Dimitrios Georgaras',
-    author_email='your.email@example.com',
+    author_email='johnathangeorgaras@gmail.com',
     description='A tool for comparing atomic structures using the Diffusion Wasserstein Distance.',
     packages=find_packages(),
     install_requires=[
